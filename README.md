@@ -1,6 +1,6 @@
 <p style="text-align:center">
   <a href="#" target="_blank">
-    <img src="https://cloud.githubusercontent.com/assets/1016365/9863762/a84fed4a-5af7-11e5-9dde-d5da01e797e7.png" alt="Webpack and Angular 2" width="500" height="320"/>
+    ![Webpack and Angular 2](/angular2-webpack.png?raw=true "Optional Title")
   </a>
 </p>
 

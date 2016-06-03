@@ -1,6 +1,6 @@
 <p style="text-align:center">
   <a href="#" target="_blank">
-    ![Webpack and Angular 2](/angular2-webpack.png?raw=true "Optional Title")
+    ![Webpack and Angular 2](/src/image/angular2-webpack.png?raw=true "Optional Title")
   </a>
 </p>
 

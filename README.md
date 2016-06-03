@@ -1,8 +1,3 @@
-<p style="text-align:center">
-  <a href="https://angularclass.com" target="_blank">
-    <img src="https://github.com/debasispanda/angular2-webpack/blob/master/src/images/angular2-webpack.png" alt="Webpack and Angular 2" width="500" height="320"/>
-  </a>
-</p>
 [![Webpack and Angular 2](https://github.com/debasispanda/angular2-webpack/blob/master/src/images/angular2-webpack.png)](#)
 
 # Angular2 Webpack Starter

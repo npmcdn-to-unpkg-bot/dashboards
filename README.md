@@ -1,7 +1,5 @@
 <p style="text-align:center">
-  <a href="#" target="_blank">
-    ![Webpack and Angular 2](/src/image/angular2-webpack.png?raw=true "Optional Title")
-  </a>
+  [![Webpack and Angular 2](https://github.com/debasispanda/angular2-webpack/blob/master/src/images/angular2-webpack.png)](#)
 </p>
 
 # Angular2 Webpack Starter

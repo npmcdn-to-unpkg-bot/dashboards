@@ -25,11 +25,8 @@ npm install typings webpack bower http-server -g
 # install the repo with npm
 npm install
 
-# install the bower components
-bower install
-
-# start the server
-npm webpack
+# start webpack to bundle
+npm run webpack
 
 # Start the http-server
 cd src
